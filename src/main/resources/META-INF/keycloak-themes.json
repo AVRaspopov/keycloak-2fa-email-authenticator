@@ -3,7 +3,8 @@
     {
       "name": "email-code-theme",
       "types": [
-        "email"
+        "email",
+        "login"
       ]
     }
   ]
