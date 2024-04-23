@@ -30,7 +30,7 @@
                     </div>
                 </div>
 
-                <div id="kc-form-buttons">
+                <div id="kc-form-buttons" class="kc-social-section">
                     <div class="${properties.kcFormButtonsWrapperClass!}">
                         <input class="${properties.kcButtonClass!} ${properties.kcButtonPrimaryClass!} ${properties.kcButtonLargeClass!}" name="login" type="submit" value="${msg("doSubmit")}" />
                         <input class="${properties.kcButtonClass!} ${properties.kcButtonDefaultClass!} ${properties.kcButtonLargeClass!}" name="resend" type="submit" value="${msg("resendCode")}"/>
